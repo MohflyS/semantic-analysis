@@ -4,4 +4,4 @@ Things to pay attention to:
 * Your file must be in Persian
 * The file format must be Excel
 * Look at the code and use the names used for the columns
-enjoy!!!
+enjoy the code!!!
